@@ -1,0 +1,25 @@
+{
+  "name": "bu-registration",
+  "version": "1.0.0",
+  "description": "Rehaul of a planner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zachary1575/BU-Registration.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zachary1575/BU-Registration/issues"
+  },
+  "homepage": "https://github.com/Zachary1575/BU-Registration#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
+}
