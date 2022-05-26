@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Zachary1575/BU-Registration#readme",
   "dependencies": {
-    "puppeteer": "^13.5.2"
+    "puppeteer": "^13.7.0"
   }
 }

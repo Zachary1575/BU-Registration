@@ -52,3 +52,7 @@ console.log("Ran!");
 
 
 //Create the necessary Json's
+
+
+// export the function so it is usable in other files
+export {scraping};
